@@ -55,7 +55,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/billwk254/Alien_Invasion/images/ai_screenshot.png)
+  <a href="https://github.com/billwk254/Alien_Invasion">
+    <img src="images/ai_screenshot.png" alt="Logo" width="500" height="">
+  </a>
 
 THe project is a simple 2D game which involves shooting down a fleet of aliens which are coming down attacking the players ship at the bottom of the screen, the player is supposed to shoot down the fleet before they reach the bottom of the screen.
 
